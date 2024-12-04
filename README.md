@@ -1,4 +1,6 @@
-# face-parsing.PyTorch
+# face-parsing
+Fork from https://github.com/zllrunning/face-parsing.PyTorch
+Tested with python=3.10
 
 <p align="center">
 	<a href="https://github.com/zllrunning/face-parsing.PyTorch">
